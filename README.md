@@ -28,7 +28,7 @@ Here are some hacks to get you started:
 
 For these hacks, you will just overwrite the `uint32_t custom_animation_lut[][16]` array in the .ino file.
 
-###Built something great with your Hackpack?
+### Built something great with your Hackpack?
 
 Show us the creative hacks you build on top of our firmware.  We want to let your work shine as brightly as the pixels on the big screen and your Hackpack - we'll add you to this list during SIGNAL!
 
