@@ -28,6 +28,12 @@ Here are some hacks to get you started:
 
 For these hacks, you will just overwrite the `uint32_t custom_animation_lut[][16]` array in the .ino file.
 
+## More Advanced Hacking
+
+* [Custom Firmware Fork to Add Morse Code](https://github.com/rbeiter/hackpack-v3)
+
+For this hack, you'll want to switch to @rbreiter 's repo and burn your Hackpack with his fork.  You can also add the other hacks as well!
+
 ### Built something great with your Hackpack?
 
 Show us the creative hacks you build on top of our firmware.  We want to let your work shine as brightly as the pixels on the big screen and your Hackpack - we'll add you to this list during SIGNAL!
