@@ -32,7 +32,7 @@ For these hacks, you will just overwrite the `uint32_t custom_animation_lut[][16
 
 * [Custom Firmware Fork to Add Morse Code](https://github.com/rbeiter/hackpack-v3)
 
-For this hack, you'll want to switch to @rbreiter 's repo and burn your Hackpack with his fork.  You can also add the other hacks as well!
+For this hack, you'll want to switch to @rbeiter 's repo and burn your Hackpack with his fork.  You can also add the other hacks as well!
 
 ### Built something great with your Hackpack?
 
