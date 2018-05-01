@@ -25,6 +25,7 @@ Here are some hacks to get you started:
 * [Font and String Generator](https://gist.github.com/pkamp3/d114d89d45939ab20fb83706868f37fb)
 * [Animated GIF and Movie Converter](https://gist.github.com/pkamp3/5ea656b8b67c9d8f19daa72ff26bcf89)
 * [Rainbow Animation and a Golden State Warriors Logo](https://gist.github.com/jarodreyes/d9905fda321a9e69de87271015e1bc1a)
+* [Hackpack and PagerDuty](https://github.com/flyandi/hackpackv3-pagerduty)
 
 For these hacks, you will just overwrite the `uint32_t custom_animation_lut[][16]` array in the .ino file.
 
